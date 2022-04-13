@@ -95,7 +95,7 @@ For almost 20 years, it has been known that single-gene mutations can extend the
 {{< anchor "Sirtuins" >}}{{< /anchor >}}Sirtuins in lifespan extension
 {{< tdclose >}}
 {{< tdopen >}}
-Sirtuins are a family of NAD{{< sup "+" >}}\-dependent lysine deacetylases that are linked to metabolism and aging. Last week we discussed the first paper demonstrating a relationship between the yeast sirtuin protein SIR4 and longevity. Since this discovery, much work has been done to determine how sirtuin genes function in aging and whether they are conserved from simple organisms to more complex organisms. This week we will discuss how different sirtuin family members regulate lifespan extension in yeast by using distinct mechanisms. In addition, we will discuss the findings of a recent paper that describes the role of a mammalian homolog of sirtuins in aging.
+Sirtuins are a family of NAD{{< sup "\+" >}}\-dependent lysine deacetylases that are linked to metabolism and aging. Last week we discussed the first paper demonstrating a relationship between the yeast sirtuin protein SIR4 and longevity. Since this discovery, much work has been done to determine how sirtuin genes function in aging and whether they are conserved from simple organisms to more complex organisms. This week we will discuss how different sirtuin family members regulate lifespan extension in yeast by using distinct mechanisms. In addition, we will discuss the findings of a recent paper that describes the role of a mammalian homolog of sirtuins in aging.
 {{< tdclose >}}
 
 {{< trclose >}}
